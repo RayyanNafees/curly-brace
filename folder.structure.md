@@ -1,3 +1,4 @@
+```pwsh
 .env.example
 .prettierrc
 .babelrc
@@ -76,3 +77,4 @@ src
    |--dashToUnderscore.ts
    |--getBase64.ts 
    |--underscoreToDash.ts
+```
